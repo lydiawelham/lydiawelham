@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lydiawelham
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on NGO projects
+- 📫 Feel free to send me a message on GitHub! 
